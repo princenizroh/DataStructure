@@ -1,0 +1,15 @@
+/home/prince/Coding/c#/DataStructure/bin/Debug/net6.0/DataStructure
+/home/prince/Coding/c#/DataStructure/bin/Debug/net6.0/DataStructure.deps.json
+/home/prince/Coding/c#/DataStructure/bin/Debug/net6.0/DataStructure.runtimeconfig.json
+/home/prince/Coding/c#/DataStructure/bin/Debug/net6.0/DataStructure.dll
+/home/prince/Coding/c#/DataStructure/bin/Debug/net6.0/ref/DataStructure.dll
+/home/prince/Coding/c#/DataStructure/bin/Debug/net6.0/DataStructure.pdb
+/home/prince/Coding/c#/DataStructure/obj/Debug/net6.0/DataStructure.csproj.AssemblyReference.cache
+/home/prince/Coding/c#/DataStructure/obj/Debug/net6.0/DataStructure.GeneratedMSBuildEditorConfig.editorconfig
+/home/prince/Coding/c#/DataStructure/obj/Debug/net6.0/DataStructure.AssemblyInfoInputs.cache
+/home/prince/Coding/c#/DataStructure/obj/Debug/net6.0/DataStructure.AssemblyInfo.cs
+/home/prince/Coding/c#/DataStructure/obj/Debug/net6.0/DataStructure.csproj.CoreCompileInputs.cache
+/home/prince/Coding/c#/DataStructure/obj/Debug/net6.0/DataStructure.dll
+/home/prince/Coding/c#/DataStructure/obj/Debug/net6.0/ref/DataStructure.dll
+/home/prince/Coding/c#/DataStructure/obj/Debug/net6.0/DataStructure.pdb
+/home/prince/Coding/c#/DataStructure/obj/Debug/net6.0/DataStructure.genruntimeconfig.cache

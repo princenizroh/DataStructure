@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TaPJtvzhctbXsWtyxLNnywuRYmrpo47o0Pu63sMMbrBDymFgyjyC97blLmTBFZ4fb1IY3CE6lQQ+tVIZaKoFZw==",
+  "success": true,
+  "projectFilePath": "/home/prince/Coding/c#/DataStructure/DataStructure.csproj",
+  "expectedPackageFiles": [
+    "/home/prince/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.21/microsoft.aspnetcore.app.ref.6.0.21.nupkg.sha512"
+  ],
+  "logs": []
+}
